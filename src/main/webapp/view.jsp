@@ -33,7 +33,7 @@
 <table>
     <tr class="title">
         <td class="add-file">
-            <button type="button" class="btn btn-outline-primary" style="margin: 20px">
+            <button type="button" class="btn btn-outline-success" style="margin: 20px">
                 <a href="${pageContext.request.contextPath}/product?action=createGet">
                     <i class="fa-solid fa-plus"></i> Add New Product</a>
             </button>
